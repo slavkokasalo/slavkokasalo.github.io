@@ -17,7 +17,7 @@
                 <td colspan="2" style="vertical-align:top;">
                 "Svaki čovjek smatra da posjeduje bar jednu veliku vrlinu"</td>
                 <td rowspan="2"><img src="cr7.jpg" width="450"></td>  
-      
+      <a img="cr7.jpg" src="kasalo"></a>
             </tr>
             <tr height="20">
                 <td>&nbsp; </td>
