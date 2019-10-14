@@ -26,7 +26,7 @@
   <div class="row">
     <div class="col-sm-4">
       <h3>MENU</h3>
-      <a img src="https://img.redro.pl/plakaty/koncepcja-menu-restauracji-400-1012410.jpg"></a>   
+      <a img src="https://img.redro.pl/plakaty/koncepcja-menu-restauracji-400-1012410.jpg"></a>     
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
