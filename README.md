@@ -19,14 +19,14 @@
       
       <div class="jumbotron text-center">
   <h1>KONOBA IVINA ARKA</h1>
-  <a img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Frelax-portal.info%2Frelax%2Fwp-content%2Fuploads%2F2017%2F08%2F3-3.jpg%3Ffit%3D420%252C280%26ssl%3D1&imgrefurl=https%3A%2F%2Frelax-portal.info%2Fkonoba-ivina-arka%2F&docid=a5Bskk1oxR2OdM&tbnid=LksHerkcIb2wkM%3A&vet=10ahUKEwicw7SOq5zlAhUlx4UKHdBCCQQQMwhDKAMwAw..i&w=420&h=280&bih=757&biw=1440&q=konoba%20ivina%20arka&ved=0ahUKEwicw7SOq5zlAhUlx4UKHdBCCQQQMwhDKAMwAw&iact=mrc&uact=8"></a>
+  <a img src=""></a>
   
 </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
+      <h3>MENU</h3>
       <p>Lorem ipsum dolor..</p>
     </div>
     <div class="col-sm-4">
