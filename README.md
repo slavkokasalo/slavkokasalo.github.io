@@ -26,7 +26,7 @@
   <div class="row">
     <div class="col-sm-4">
       <h3>MENU</h3>
-      <p>Lorem ipsum dolor..</p>
+      <a img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipl6n7rZzlAhXD_qQKHbGlDV8QjRx6BAgBEAQ&url=https%3A%2F%2Fredro.pl%2Fplakat-koncepcja-menu-restauracji-%2C1012410&psig=AOvVaw2JG4GEluEF4TTWJQ7720xI&ust=1571163410556896"></a>
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
