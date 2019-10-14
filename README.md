@@ -19,7 +19,7 @@
              <tr>
                 <td colspan="2" style="vertical-align:top;">
                 "Svaki čovjek smatra da posjeduje bar jednu veliku vrlinu"</td>
-                <td rowspan="2"><img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6torRv5vlAhXB-6QKHROuBo8QjRx6BAgBEAQ&url=https%3A%2F%2Ffr.uefa.com%2Fuefachampionsleague%2Fnews%2Fnewsid%3D2475340.html%3Fiv%3Dtrue&psig=AOvVaw1tJUlWsqMOXJzvLy4odF-3&ust=1571133795840227" width="450"></td>  
+                <td rowspan="2"><img src="https://img.uefa.com/MultimediaFiles/Photo/competitions/Comp_Matches/02/56/15/94/2561594_w1.jpg" width="450"></td>  
       
             </tr>
             <tr height="20">
