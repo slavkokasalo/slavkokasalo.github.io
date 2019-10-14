@@ -13,23 +13,8 @@
 <body>
    <table width="800" border="1">
 
-       <tr height="50">
-           <td colspan="3" align="center">Čovjek</td>
-      </tr>
-             <tr>
-                <td colspan="2" style="vertical-align:top;">
-                "Svaki čovjek smatra da posjeduje bar jednu veliku vrlinu"</td>
-                <td rowspan="2"><img src="https://img.uefa.com/MultimediaFiles/Photo/competitions/Comp_Matches/02/56/15/94/2561594_w1.jpg" width="450"></td>  
       
-            </tr>
-            <tr height="20">
-                <td>&nbsp; </td>
-                <td>&nbsp; </td>
-         
-
-
-            </tr>
-        
+    
 
       </table>
       <div class="jumbotron text-center">
