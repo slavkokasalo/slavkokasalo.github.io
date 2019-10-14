@@ -18,8 +18,8 @@
 
       </table>
       <div class="jumbotron text-center">
-  <h1>My First Bootstrap Page</h1>
-  <p>Resize this responsive page to see the effect!</p>
+  <h1>KONOBA IVINA ARKA</h1>
+  <p></p>
 </div>
 
 <div class="container">
