@@ -17,7 +17,7 @@
 
       
       <div class="jumbotron text-center">
-  <h1>KONOBA IVINA ARKA</h1>
+  <h1>KONOBA IVINA ARKA</h1> 
   <a img src=""></a>
   
 </div>
