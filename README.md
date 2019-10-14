@@ -18,7 +18,7 @@
 
       
       <div class="jumbotron text-center">
-  <h1>KONOBA IVINA ARKA</h1>
+  <h1 img src="konoba.jpg" class="img-responsive" alt="Cinque Terre">KONOBA IVINA ARKA</h1>
   
 </div>
 
