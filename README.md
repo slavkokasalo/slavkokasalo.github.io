@@ -18,7 +18,7 @@
       
       <div class="jumbotron text-center">
   <h1>KONOBA IVINA ARKA</h1> 
-  <a img src=""></a>
+  <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipl6n7rZzlAhXD_qQKHbGlDV8QjRx6BAgBEAQ&url=https%3A%2F%2Fredro.pl%2Fplakat-koncepcja-menu-restauracji-%2C1012410&psig=AOvVaw2JG4GEluEF4TTWJQ7720xI&ust=1571163410556896">
   
 </div>
 
