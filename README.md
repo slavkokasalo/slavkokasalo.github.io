@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>KONOBA IVINA ARKA</title>
@@ -9,7 +9,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-//UVIJEK//
+
         <nav class="navbar navbar-default navbar-fixed-top">
                 <div class="container">
                   <div class="navbar-header">
@@ -55,7 +55,7 @@
                                     </style>
                                     
                                     <body>
- //SLIDESHOW//                   
+                   
                   <div class="jumbotron text-center">
                     <h1>KONOBA IVINA ARKA</h1>
                     <p></p>
