@@ -30,7 +30,7 @@
     </div>
     <div class="col-sm-4">
       <h3>SLIKE</h3>
-     
+      
     </div>
     <div class="col-sm-4">
       <h3>INSTAGRAM</h3><br>
