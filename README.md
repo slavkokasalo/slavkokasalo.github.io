@@ -53,7 +53,7 @@
         <div class="col-sm-4">
       <h3>e-MAIL</h3><br>
       
-    </div>
+    </div> 
   </div>
 </div>
 </body>
