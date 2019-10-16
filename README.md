@@ -36,6 +36,19 @@
       <h3>INSTAGRAM</h3><br>
       
     </div>
+    
+    
+    
+    
+        <div class="col-sm-4">
+      <h3>FACEBOOK</h3><br>
+      
+    </div>
+    
+        <div class="col-sm-4">
+      <h3>KONTAKT</h3><br>
+      
+    </div>
   </div>
 </div>
 </body>
