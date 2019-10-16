@@ -29,11 +29,11 @@
       <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipl6n7rZzlAhXD_qQKHbGlDV8QjRx6BAgBEAQ&url=https%3A%2F%2Fredro.pl%2Fplakat-koncepcja-menu-restauracji-%2C1012410&psig=AOvVaw2JG4GEluEF4TTWJQ7720xI&ust=1571163410556896">                       
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
+      <h3>SLIKE</h3>
       <p>Lorem ipsum dolor..</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>
+      <h3>INSTAGRAM</h3><br>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
