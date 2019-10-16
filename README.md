@@ -20,7 +20,7 @@
   <h1>KONOBA IVINA ARKA</h1> 
   <img src="">
   
-</div>
+</div> 
 
 <div class="container">
   <div class="row">    
