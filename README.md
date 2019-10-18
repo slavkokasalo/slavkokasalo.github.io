@@ -160,7 +160,7 @@
     </thead>
     
     
-    <img src="https://imgur.com/fwrsDir"
+    <img src="https://i.imgur.com/fwrsDir.png"
 //KONTAKT//
           <div class="container-fluid bg-grey">
                 <h2 class="text-center">KONTAKT</h2>
