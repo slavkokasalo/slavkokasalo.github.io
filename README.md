@@ -158,6 +158,9 @@
       </div>
    
     </thead>
+    
+    
+    <img src="https://imgur.com/fwrsDir"
 //KONTAKT//
           <div class="container-fluid bg-grey">
                 <h2 class="text-center">KONTAKT</h2>
