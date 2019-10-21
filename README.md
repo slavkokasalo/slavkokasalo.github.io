@@ -15,7 +15,7 @@
 
 
 
-</head>
+
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -104,7 +104,7 @@
 </div>
 <div id="MENU" class="container-fluid">
  <thead>
-          <img src="https://imgur.com/cZdmZfL.png"style="width:100%"  style="height:100%" >
+          <img src="https://imgur.com/cZdmZfL.png" style="width:100%"  style="height:100%" >
           
 
          
@@ -116,7 +116,7 @@
 
 
 <a href="https://hr-hr.facebook.com/ivinaarka"><img src="https://imgur.com/PyqdrFI.png"  style="width:50%" id="logo"></a>
-<a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%"id="logo"></a>
+<a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%" id="logo"></a>
 
 
 
