@@ -104,7 +104,7 @@
 </div>
 <div id="MENU" class="container-fluid">
  <thead>
-          <img src="https://imgur.com/cZdmZfL.png" style="width:99%" >
+          <img src="https://imgur.com/cZdmZfL.png" style="width:99%">
           
 
          
