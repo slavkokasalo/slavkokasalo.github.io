@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>KONOBA IVINA ARKA</title>
@@ -15,7 +15,7 @@
 
 
 
-</head>
+
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
