@@ -11,7 +11,7 @@
 <body>
 
 
- 
+
 
 
 
@@ -105,17 +105,7 @@
 <div id="MENU" class="container-fluid">
  <thead>
    
-              
-              <div class="has-overlay zoom-1">
-                  <img class="zoom-target w-100" src="https://imgur.com/cZdmZfL.png"style="width:100%">
-                  <div class="overlay text-white flex-center">
-                    <div class="p-5 bg-rgba-black-dark text-center">
-                      <p class="font-14 text-muted mb-2">WEB DESIGNER</p>
-                      <div class="h4 mb-4">Lorem Ipsum Dolar Set amet<br>Set amet omana</div>
-                      <button class="btn btn-outline-white btn-sm btn-square border-2x">I AM BUTTON</button>
-                    </div>
-                  </div>
-                </div>
+              <img src="https://imgur.com/cZdmZfL.png"style="width:100%"/>
       
 
          
@@ -124,7 +114,7 @@
 
 </div>
 <div id="DRUŠTVENEMREŽE" class="container-fluid">
-
+  
 <a href="https://hr-hr.facebook.com/ivinaarka"><img src="https://imgur.com/PyqdrFI.png"  style="width:50%" id="logo"></a>
 <a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%"id="logo"></a>
 
