@@ -24,7 +24,7 @@
     }
 body{
   background-image:url(https://media.istockphoto.com/photos/light-natural-wood-background-picture-id1041326026?k=6&m=1041326026&s=612x612&w=0&h=3O3vxAZI6nFK8vA33cSCgoFVZseGUqhzBZlFeaUv0-w=);
-} 
+}  
 
   
   </style>
