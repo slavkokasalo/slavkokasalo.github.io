@@ -24,7 +24,7 @@
     }
 body{
   background-color:rgb(red);
-}  
+}   
 
   
   </style>
