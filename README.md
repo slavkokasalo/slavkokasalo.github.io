@@ -111,10 +111,10 @@ body{
   
 
 <div id="MENU" class="container-fluid">
-
-              <img src="https://imgur.com/cZdmZfL.png"style="width:100%"/>
+<thead>
+              <img src="https://imgur.com/cZdmZfL.png" style="width:100%"/>
       
-
+</thead>
 
 </div>
 <div id="DRUŠTVENEMREŽE" class="container-fluid">
