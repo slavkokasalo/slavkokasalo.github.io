@@ -33,7 +33,7 @@ body{
 }
 
 .carousel-indicators li {
-  border-color:brown;
+  border-color:brown; 
 }
 
 .carousel-indicators li.active {
