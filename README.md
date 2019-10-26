@@ -103,9 +103,7 @@ body{
       <span class="glyphicon glyphicon-chevron-right"></span>
       <span class="sr-only">Next</span>
     </a>
-  </div>
-</div>
-          </div>
+
 
 
          
@@ -113,13 +111,9 @@ body{
   
 
 <div id="MENU" class="container-fluid">
- <thead>
-   
+
               <img src="https://imgur.com/cZdmZfL.png"style="width:100%"/>
       
-
-         
-    </thead>
 
 
 </div>
