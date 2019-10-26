@@ -75,15 +75,19 @@ body{
       <div class="item active">
         <img src="https://imgur.com/us6FKf5.png"  style="width:100%;">
       </div>
+      
       <div class="item">
         <img src="https://imgur.com/deFWBua.png"  style="width:100%;"> 
       </div>
+      
       <div class="item">
         <img src="https://imgur.com/uXNav86.png"  style="width:100%;">
-      </div
+      </div>
+      
       <div class="item">
             <img src="https://imgur.com/GLFlLhn.png"  style="width:100%;">
           </div>
+          
           <div class="item">
                 <img src="https://imgur.com/tJtSp1h.png"  style="width:100%;">
               </div>
@@ -105,7 +109,7 @@ body{
          
 <div id="MENU" class="container-fluid">
  <thead>
-              <img src="https://imgur.com/cZdmZfL.png"style="width:100%"/>
+              <img src="https://imgur.com/cZdmZfL.png" style="width:100%"/>
     </thead>
 
 
