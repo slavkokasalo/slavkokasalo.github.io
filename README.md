@@ -23,7 +23,7 @@
     position:absolute;
     }
 body{
-  background-color:rgb(red);
+  background-color:red;
 }   
 
   
