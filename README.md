@@ -24,7 +24,7 @@
     }
 body{
   background-image:url(https://images.unsplash.com/photo-1494170959219-cc4354bcc818?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
-  height:1000px;
+  height:1000px; 
     width:1000px;
 }   
 
