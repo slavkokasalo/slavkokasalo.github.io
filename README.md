@@ -27,6 +27,30 @@ body{
   height:100%;  
     width:100%;  
 }    
+  .carousel-control.right, .carousel-control.left {
+  background-image: none;
+  color:brown;
+}
+
+.carousel-indicators li {
+  border-color:brown;
+}
+
+.carousel-indicators li.active {
+  background-color:white;
+}
+
+.item h4 {
+  font-size: 19px;
+  line-height: 1.375em;
+  font-weight: 400;
+  font-style: italic;
+  margin: 70px 0;
+}
+
+.item span {
+  font-style: normal;
+}
 
   
   </style>
