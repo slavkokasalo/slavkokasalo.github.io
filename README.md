@@ -113,7 +113,7 @@ body{
 <div id="DRUŠTVENEMREŽE" class="container-fluid">
   
 <a href="https://hr-hr.facebook.com/ivinaarka"><img src="https://imgur.com/PyqdrFI.png"  style="width:50%" id="logo"></a>
-<a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%"id="logo"></a>
+<a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%" id="logo"></a>
 
 
 
