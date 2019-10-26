@@ -50,11 +50,7 @@ body{
               <li><a href="#KONTAKT">KONTAKT</a></li>
               
             
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </div>
+    
   </div>
 </nav>    
 
