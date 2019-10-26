@@ -50,7 +50,11 @@ body{
               <li><a href="#KONTAKT">KONTAKT</a></li>
               
             
-    
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
   </div>
 </nav>    
 
@@ -66,39 +70,57 @@ body{
       <li data-target="#myCarousel" data-slide-to="3"></li>
       <li data-target="#myCarousel" data-slide-to="4"></li>
     </ol>
+
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
         <img src="https://imgur.com/us6FKf5.png"  style="width:100%;">
       </div>
+
       <div class="item">
         <img src="https://imgur.com/deFWBua.png"  style="width:100%;">
       </div>
+    
       <div class="item">
         <img src="https://imgur.com/uXNav86.png"  style="width:100%;">
       </div>
+
       <div class="item">
             <img src="https://imgur.com/GLFlLhn.png"  style="width:100%;">
           </div>
+
           <div class="item">
                 <img src="https://imgur.com/tJtSp1h.png"  style="width:100%;">
               </div>
     </div>
+
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
-      </a>
+    </a>
     <a class="right carousel-control" href="#myCarousel" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right"></span>
       <span class="sr-only">Next</span>
     </a>
-    
+  </div>
+</div>
+          </div>
+
+
+         
+
+  
+</div>
 <div id="MENU" class="container-fluid">
-<thead>
-              <img src="https://imgur.com/cZdmZfL.png" style="width:100%"/>
+ <thead>
+   
+              <img src="https://imgur.com/cZdmZfL.png"style="width:100%"/>
       
-</thead>
+
+         
+    </thead>
+
 
 </div>
 <div id="DRUŠTVENEMREŽE" class="container-fluid">
@@ -112,10 +134,14 @@ body{
 <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.9610489223473!2d16.965023286248154!3d43.81516734111764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475f8cb53e3e5653%3A0x80b9d06d571629da!2sKonoba%20Ivina%20Arka!5e0!3m2!1shr!2sba!4v1572090091419!5m2!1shr!2sba" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
 </div>
+
 <!--Google Maps-->
 
+
+  
 </div>
 <div id="KONTAKT" class="container-fluid">
+  
           <div class="container-fluid bg-grey">
                 <h2 class="text-center">KONTAKT</h2>
                 <div class="row">
@@ -144,7 +170,10 @@ body{
                 </div>
               </div>
 </div>
+
+    
         </body>
 </body>
 </html>
+
 
