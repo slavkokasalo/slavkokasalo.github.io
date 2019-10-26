@@ -121,7 +121,7 @@
 <!--Google map-->
 <div id="map-container-google-1" class="z-depth-1-half map-container" style="width:100%">
   <iframe src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
-    style="border:0" allowfullscreen></iframe>
+    style="border:0"fullscreen></iframe>
 </div>
 
 <!--Google Maps-->  
