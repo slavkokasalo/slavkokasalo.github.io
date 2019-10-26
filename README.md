@@ -26,7 +26,7 @@ body{
   background-image:url(https://img.freepik.com/free-photo/wood-material-background-wallpaper-texture-concept_53876-42925.jpg?size=626&ext=jpg);
   height:100%;
   width:100%;
-}
+} 
 
   
   </style>
