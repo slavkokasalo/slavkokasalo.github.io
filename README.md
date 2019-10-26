@@ -10,21 +10,6 @@
 </head>
 <body>
 
-.map-container{
-overflow:hidden;
-padding-bottom:56.25%;
-position:relative;
-height:0;
-}
-.map-container iframe{
-left:0;
-top:0;
-height:100%;
-width:100%;
-position:absolute;
-}
-
-
 
 
 
@@ -130,13 +115,7 @@ position:absolute;
 <a href="https://hr-hr.facebook.com/ivinaarka"><img src="https://imgur.com/PyqdrFI.png"  style="width:50%" id="logo"></a>
 <a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%" id="logo"></a>
 
-<!--Google map-->
-<div id="map-container-google-1" class="z-depth-1-half map-container" style="width:100%">
-  <iframe src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
-    style="border:0"allowfullscreen></iframe> 
-</div>
 
-<!--Google Maps-->  
 
 
 
