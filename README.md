@@ -222,7 +222,7 @@ Die Küche und die Atmosphäre hat etwas Besonderes. Die Gastfreundlichkeit der 
                       <div class="col-sm-12 form-group">
                         <button class="btn btn-default pull-right" type="submit">Šalji</button>
                       </div>
-                    </div>
+                    </div> 
                   </div>
                 </div>
               </div>
