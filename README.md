@@ -112,8 +112,8 @@ body{
               <img src="https://imgur.com/cZdmZfL.png" style="width:100%"/>
     </thead>
 
-
 </div>
+
 <div id="DRUŠTVENEMREŽE" class="container-fluid">
   
 <a href="https://hr-hr.facebook.com/ivinaarka"><img src="https://imgur.com/PyqdrFI.png"  style="width:50%" id="logo"></a>
