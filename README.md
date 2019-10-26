@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>KONOBA IVINA ARKA</title>
@@ -23,6 +22,11 @@
     width:100%;
     position:absolute;
     }
+body{
+  background-image:url(https://img.freepik.com/free-photo/wood-material-background-wallpaper-texture-concept_53876-42925.jpg?size=626&ext=jpg);
+}
+
+  
   </style>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
@@ -42,7 +46,9 @@
           <li><a href="#KONOBA">KONOBA</a></li>
           <li><a href="#MENU">MENU</a></li>
           <li><a href="#DRUŠTVENEMREŽE">DRUŠTVENE MREŽE</a></li>
+          <li><a href="#MAPA">MAPA</a></li>
               <li><a href="#KONTAKT">KONTAKT</a></li>
+              
             
             </ul>
           </li>
@@ -53,11 +59,8 @@
 </nav>    
 
 <div id="KONOBA" class="container-fluid">
-  
-  <div class="jumbotron text-center">
-                    <h1>KONOBA IVINA ARKA</h1>
-                    <p></p>
-<div class="container">
+                  
+<div class="container" style="width:100%;" >
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -105,8 +108,7 @@
           </div>
 
 
-
-
+         
 
   
 </div>
@@ -125,11 +127,12 @@
   
 <a href="https://hr-hr.facebook.com/ivinaarka"><img src="https://imgur.com/PyqdrFI.png"  style="width:50%" id="logo"></a>
 <a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%"id="logo"></a>
- 
+
 
 <!--Google map-->
+<div id="MAPA" class="container-fluid"></div>
 <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.9610489223473!2d16.965023286248154!3d43.81516734111764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475f8cb53e3e5653%3A0x80b9d06d571629da!2sKonoba%20Ivina%20Arka!5e0!3m2!1shr!2sba!4v1572090091419!5m2!1shr!2sba" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>  
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.9610489223473!2d16.965023286248154!3d43.81516734111764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475f8cb53e3e5653%3A0x80b9d06d571629da!2sKonoba%20Ivina%20Arka!5e0!3m2!1shr!2sba!4v1572090091419!5m2!1shr!2sba" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
 </div>
 
 <!--Google Maps-->
@@ -172,3 +175,4 @@
         </body>
 </body>
 </html>
+
