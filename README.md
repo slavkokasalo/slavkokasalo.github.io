@@ -27,32 +27,7 @@ body{
   height:100%;  
     width:100%;  
 }    
-  .carousel-control.right, .carousel-control.left {
-  background-image: none;
-  color:brown;
-}
-
-.carousel-indicators li {
-  border-color:brown; 
-}
-
-.carousel-indicators li.active {
-  background-color:white;
-}
-
-.item h4 {
-  font-size: 19px;
-  line-height: 1.375em;
-  font-weight: 400;
-  font-style: italic;
-  margin: 70px 0;
-}
-
-.item span {
-  font-style: normal;
-}
-
-  
+ 
   </style>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
@@ -140,46 +115,7 @@ body{
 
 </div>
 
-<h2>Šta kažu naši posjetitelji</h2>
-<div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
 
-  <!-- Wrapper for slides --> 
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-    <h4>"(Preveo Google) Definitivno najbolja hrana na tom području. Konobari su više nego prijateljski i dobro raspoloženi. Nastavite dalje !!! :)
-
-(Original)
-Definitiv das beste Essen im Umkreis. Kellner sind mehr als freundlich und gut gelaunt. Weiter so!!! :)"<br><span style="font-style:normal;"></span></h4>
-    </div>
-    <div class="item">
-      <h4>"Svaka čast super ste."<br><span style="font-style:normal;"></span></h4>
-    </div>
-    <div class="item">
-      <h4>"(Preveo Google) Top Top Top!
-Kuhinja i atmosfera imaju nešto posebno. Gostoljubivost konobara i dobra hrana dovode nas ovdje svake godine.
-
-(Original)
-Top Top Top! 
-Die Küche und die Atmosphäre hat etwas Besonderes. Die Gastfreundlichkeit der Kellner und das gute essen bringt uns jedes Jahr hier her."<br><span style="font-style:normal;"></span></h4>
-    </div>
-  </div>
-
-  <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
 
 <div id="DRUŠTVENEMREŽE" class="container-fluid">
   
