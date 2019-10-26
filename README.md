@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>KONOBA IVINA ARKA</title>
@@ -9,10 +9,21 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-
-
-
-
+<style>
+  .map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+  </style>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -64,7 +75,7 @@
       </div>
 
       <div class="item">
-        <img src="https://imgur.com/deFWBua.png" class="img-circle" style="width:100%;">
+        <img src="https://imgur.com/deFWBua.png"  style="width:100%;">
       </div>
     
       <div class="item">
@@ -101,8 +112,9 @@
 </div>
 <div id="MENU" class="container-fluid">
  <thead>
-          <img src="https://imgur.com/cZdmZfL.png" style="width:100%">
-          
+   
+              <img src="https://imgur.com/cZdmZfL.png"style="width:100%"/>
+      
 
          
     </thead>
@@ -110,14 +122,17 @@
 
 </div>
 <div id="DRUŠTVENEMREŽE" class="container-fluid">
-
-
+  
 <a href="https://hr-hr.facebook.com/ivinaarka"><img src="https://imgur.com/PyqdrFI.png"  style="width:50%" id="logo"></a>
-<a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%" id="logo"></a>
+<a href="https://www.instagram.com/konobaivinaarka/"><img src="https://i.imgur.com/RIsKDFw.png"  style="width:49%"id="logo"></a>
 
 
+<!--Google map-->
+<div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.9610489223473!2d16.965023286248154!3d43.81516734111764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475f8cb53e3e5653%3A0x80b9d06d571629da!2sKonoba%20Ivina%20Arka!5e0!3m2!1shr!2sba!4v1572090091419!5m2!1shr!2sba" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
+</div>
 
-
+<!--Google Maps-->
 
 
   
