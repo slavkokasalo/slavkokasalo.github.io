@@ -76,7 +76,7 @@ body{
         <img src="https://imgur.com/us6FKf5.png"  style="width:100%;">
       </div>
       <div class="item">
-        <img src="https://imgur.com/deFWBua.png"  style="width:100%;">
+        <img src="https://imgur.com/deFWBua.png"  style="width:100%;"> 
       </div>
       <div class="item">
         <img src="https://imgur.com/uXNav86.png"  style="width:100%;">
