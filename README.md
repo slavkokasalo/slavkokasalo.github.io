@@ -67,7 +67,7 @@
       </div>
 
       <div class="item">
-        <img src="https://imgur.com/deFWBua.png"  style="width:100%;">
+        <img src="https://imgur.com/deFWBua.png" class="img-circle" style="width:100%;">
       </div>
     
       <div class="item">
