@@ -125,7 +125,7 @@ body{
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
 
-  <!-- Wrapper for slides -->
+  <!-- Wrapper for slides --> 
   <div class="carousel-inner" role="listbox">
     <div class="item active">
     <h4>"(Preveo Google) Definitivno najbolja hrana na tom području. Konobari su više nego prijateljski i dobro raspoloženi. Nastavite dalje !!! :)
