@@ -228,7 +228,7 @@ body {
         <img src="https://imgur.com/U1yQxBt.png" style="width:100%">
         <img src="https://imgur.com/uWHSbIf.png" style="width:100%">
         <img src="https://imgur.com/Wyo6Ym7.png" style="width:100%">
-        <img src="https://imgur.com/zgcl1L8.png" style="width:100%">
+        <img src="https://imgur.com/zgcl1L8.png" style="width:100%"> 
          <img src="https://imgur.com/a8nDUkf.png" style="width:100%">
       </div> 
   </div>
