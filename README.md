@@ -195,7 +195,7 @@ body {
          
         <div class="column">
       <img src="https://imgur.com/GV91rr1" style="width:100%">
-      <img src="https://imgur.com/e1NRKJi" style="width:100%">
+      <img src="https://imgur.com/e1NRKJi" style="width:100%"> 
       <img src="https://imgur.com/ACVDvht" style="width:100%">
       <img src="https://imgur.com/O14cNgL" style="width:100%">
       <img src="https://imgur.com/tKUVYSD" style="width:100%">
