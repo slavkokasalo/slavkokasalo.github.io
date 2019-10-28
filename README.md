@@ -14,7 +14,7 @@
   .map-container{
     overflow:hidden;
     padding-bottom:56.25%;
-    position:relative;
+    position:relative; 
     height:0;
     }
     .map-container iframe{
