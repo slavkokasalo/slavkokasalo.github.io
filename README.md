@@ -70,7 +70,7 @@ body {
 @media screen and (max-width: 800px) {
   .column {
     -ms-flex: 50%;
-    flex: 50%;
+    flex: 50%; 
     max-width: 50%;
   }
 }
