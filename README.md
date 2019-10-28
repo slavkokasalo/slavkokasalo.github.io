@@ -27,6 +27,59 @@ body{
   height:100%;  
     width:100%;  
 }    
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
  
   </style>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -48,8 +101,9 @@ body{
           <li><a href="#MENU">MENU</a></li>
           <li><a href="#DRUŠTVENEMREŽE">DRUŠTVENE MREŽE</a></li>
           <li><a href="#MAPA">MAPA</a></li>
+          <li><a href="#GALERIJA">GALERIJA</a></li>
               <li><a href="#KONTAKT">KONTAKT</a></li>
-              
+         
             
             </ul>
           </li> 
@@ -129,8 +183,54 @@ body{
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.9610489223473!2d16.965023286248154!3d43.81516734111764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475f8cb53e3e5653%3A0x80b9d06d571629da!2sKonoba%20Ivina%20Arka!5e0!3m2!1shr!2sba!4v1572090091419!5m2!1shr!2sba" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
 </div>
 
+<div id="GALERIJA" class="container-fluid"></div>
+<!-- Header -->
+<div class="header">
+    <h1>GALERIJA</h1>
+    <p>Pogledajte neke od naših slika unutarnjeg interijera</p>
+  </div>
+  
+  <!-- Photo Grid -->
+  <div class="row"> 
+         
+        <div class="column">
+      <img src="konoba1.jpg" style="width:100%">
+      <img src="konoba2.jpg" style="width:100%">
+      <img src="konoba3.jpg" style="width:100%">
+      <img src="konoba4.jpg" style="width:100%">
+      <img src="konoba5.jpg" style="width:100%">
+      <img src="konoba6.jpg" style="width:100%">
+      <img src="konoba7.jpg" style="width:100%">
+    </div> 
 
+    
+    <div class="column">
+      <img src="konoba8.jpg" style="width:100%">
+      <img src="konoba9.jpg" style="width:100%">
+      <img src="konoba10.jpg" style="width:100%">
+      <img src="konoba11.jpg" style="width:100%">
+      <img src="konoba12.jpg" style="width:100%">
+      <img src="konoba13.jpg" style="width:100%">
+    </div>
+   
+    <div class="column">
+      <img src="konoba14.jpg" style="width:100%">
+      <img src="konoba15.jpg" style="width:100%">
+      <img src="konoba16.jpg"style="width:100%">
+      <img src="konoba17.jpg" style="width:100%">
+      <img src="konoba18.jpg" style="width:100%">
+      
+    </div>
 
+    <div class="column">
+        <img src="konoba19.jpg" style="width:100%">
+        <img src="konoba20.jpg" style="width:100%">
+        <img src="konoba21.jpg" style="width:100%">
+        <img src="konoba22.jpg" style="width:100%">
+        <img src="konoba23.jpg" style="width:100%">
+        <img src="konobaa24.jpg" style="width:100%">
+      </div> 
+  </div>
 
   
 </div>
@@ -166,5 +266,3 @@ body{
         </body>
 </body>
 </html>
-
-
