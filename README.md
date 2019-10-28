@@ -194,41 +194,42 @@ body {
   <div class="row"> 
          
         <div class="column">
-      <img src="konoba1.jpg" style="width:100%">
-      <img src="konoba2.jpg" style="width:100%">
-      <img src="konoba3.jpg" style="width:100%">
-      <img src="konoba4.jpg" style="width:100%">
-      <img src="konoba5.jpg" style="width:100%">
-      <img src="konoba6.jpg" style="width:100%">
-      <img src="konoba7.jpg" style="width:100%">
+      <img src="https://imgur.com/GV91rr1" style="width:100%">
+      <img src="https://imgur.com/e1NRKJi" style="width:100%">
+      <img src="https://imgur.com/ACVDvht" style="width:100%">
+      <img src="https://imgur.com/O14cNgL" style="width:100%">
+      <img src="https://imgur.com/tKUVYSD" style="width:100%">
+      <img src="https://imgur.com/6T6CiZj" style="width:100%">
+      <img src="https://imgur.com/0eTlK5E" style="width:100%">
     </div> 
 
     
     <div class="column">
-      <img src="konoba8.jpg" style="width:100%">
-      <img src="konoba9.jpg" style="width:100%">
-      <img src="konoba10.jpg" style="width:100%">
-      <img src="konoba11.jpg" style="width:100%">
-      <img src="konoba12.jpg" style="width:100%">
-      <img src="konoba13.jpg" style="width:100%">
+      <img src="https://imgur.com/FKwhJqc" style="width:100%">
+      <img src="https://imgur.com/5I3NaoB" style="width:100%">
+      <img src="https://imgur.com/actmIZy" style="width:100%">
+      <img src="https://imgur.com/vee8VuM" style="width:100%">
+      <img src="https://imgur.com/yCs3rdq" style="width:100%">
+      <img src="https://imgur.com/6J2EwnZ" style="width:100%">
     </div>
    
     <div class="column">
-      <img src="konoba14.jpg" style="width:100%">
-      <img src="konoba15.jpg" style="width:100%">
-      <img src="konoba16.jpg"style="width:100%">
-      <img src="konoba17.jpg" style="width:100%">
-      <img src="konoba18.jpg" style="width:100%">
+      <img src="https://imgur.com/GBspAlZ" style="width:100%">
+      <img src="https://imgur.com/9XmsbSE" style="width:100%">
+      <img src="https://imgur.com/zYcbw5H" style="width:100%">
+      <img src="https://imgur.com/l1lj7bV" style="width:100%">
+      <img src="https://imgur.com/cXkERLd" style="width:100%">
       
     </div>
 
     <div class="column">
-        <img src="konoba19.jpg" style="width:100%">
-        <img src="konoba20.jpg" style="width:100%">
-        <img src="konoba21.jpg" style="width:100%">
-        <img src="konoba22.jpg" style="width:100%">
-        <img src="konoba23.jpg" style="width:100%">
-        <img src="konobaa24.jpg" style="width:100%">
+        <img src="https://imgur.com/R64kOt8" style="width:100%">
+        <img src="https://imgur.com/M160nJ7" style="width:100%">
+        <img src="https://imgur.com/U1yQxBt" style="width:100%">
+        <img src="https://imgur.com/uWHSbIf" style="width:100%">
+        <img src="https://imgur.com/Wyo6Ym7" style="width:100%">
+        <img src="https://imgur.com/zgcl1L8" style="width:100%">
+         <img src="https://imgur.com/a8nDUkf" style="width:100%">
       </div> 
   </div>
 
