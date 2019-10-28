@@ -31,7 +31,7 @@ body{
     
 }
 p{
-color:#d4d9dd;
+color:#ffffff;
 }
 * {
   box-sizing: border-box;
