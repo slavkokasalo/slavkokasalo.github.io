@@ -194,13 +194,13 @@ body {
   <div class="row"> 
          
         <div class="column">
-      <img src="https://imgur.com/GV91rr1" style="width:100%">
-      <img src="https://imgur.com/e1NRKJi" style="width:100%"> 
-      <img src="https://imgur.com/ACVDvht" style="width:100%">
-      <img src="https://imgur.com/O14cNgL" style="width:100%">
-      <img src="https://imgur.com/tKUVYSD" style="width:100%">
-      <img src="https://imgur.com/6T6CiZj" style="width:100%">
-      <img src="https://imgur.com/0eTlK5E" style="width:100%">
+      <img src="https://imgur.com/GV91rr1.png" style="width:100%">
+      <img src="https://imgur.com/e1NRKJi.png" style="width:100%"> 
+      <img src="https://imgur.com/ACVDvht.png" style="width:100%">
+      <img src="https://imgur.com/O14cNgL.png" style="width:100%">
+      <img src="https://imgur.com/tKUVYSD.png" style="width:100%">
+      <img src="https://imgur.com/6T6CiZj.png" style="width:100%">
+      <img src="https://imgur.com/0eTlK5E.png" style="width:100%">
     </div> 
 
     
