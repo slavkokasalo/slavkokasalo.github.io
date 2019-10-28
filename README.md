@@ -30,9 +30,7 @@ body{
     width:100%; 
     
 }
-p{
-color:#0000ff;
-}
+
 * {
   box-sizing: border-box;
 }
