@@ -205,31 +205,31 @@ body {
 
     
     <div class="column">
-      <img src="https://imgur.com/FKwhJqc" style="width:100%">
-      <img src="https://imgur.com/5I3NaoB" style="width:100%">
-      <img src="https://imgur.com/actmIZy" style="width:100%">
-      <img src="https://imgur.com/vee8VuM" style="width:100%">
-      <img src="https://imgur.com/yCs3rdq" style="width:100%">
-      <img src="https://imgur.com/6J2EwnZ" style="width:100%">
+      <img src="https://imgur.com/FKwhJqc.png" style="width:100%">
+      <img src="https://imgur.com/5I3NaoB.png" style="width:100%">
+      <img src="https://imgur.com/actmIZy.png" style="width:100%">
+      <img src="https://imgur.com/vee8VuM.png" style="width:100%">
+      <img src="https://imgur.com/yCs3rdq.png" style="width:100%">
+      <img src="https://imgur.com/6J2EwnZ.png" style="width:100%">
     </div>
    
     <div class="column">
-      <img src="https://imgur.com/GBspAlZ" style="width:100%">
-      <img src="https://imgur.com/9XmsbSE" style="width:100%">
-      <img src="https://imgur.com/zYcbw5H" style="width:100%">
-      <img src="https://imgur.com/l1lj7bV" style="width:100%">
-      <img src="https://imgur.com/cXkERLd" style="width:100%">
+      <img src="https://imgur.com/GBspAlZ.png" style="width:100%">
+      <img src="https://imgur.com/9XmsbSE.png" style="width:100%">
+      <img src="https://imgur.com/zYcbw5H.png" style="width:100%">
+      <img src="https://imgur.com/l1lj7bV.png" style="width:100%">
+      <img src="https://imgur.com/cXkERLd.png" style="width:100%">
       
     </div>
 
     <div class="column">
-        <img src="https://imgur.com/R64kOt8" style="width:100%">
-        <img src="https://imgur.com/M160nJ7" style="width:100%">
-        <img src="https://imgur.com/U1yQxBt" style="width:100%">
-        <img src="https://imgur.com/uWHSbIf" style="width:100%">
-        <img src="https://imgur.com/Wyo6Ym7" style="width:100%">
-        <img src="https://imgur.com/zgcl1L8" style="width:100%">
-         <img src="https://imgur.com/a8nDUkf" style="width:100%">
+        <img src="https://imgur.com/R64kOt8.png" style="width:100%">
+        <img src="https://imgur.com/M160nJ7.png" style="width:100%">
+        <img src="https://imgur.com/U1yQxBt.png" style="width:100%">
+        <img src="https://imgur.com/uWHSbIf.png" style="width:100%">
+        <img src="https://imgur.com/Wyo6Ym7.png" style="width:100%">
+        <img src="https://imgur.com/zgcl1L8.png" style="width:100%">
+         <img src="https://imgur.com/a8nDUkf.png" style="width:100%">
       </div> 
   </div>
 
