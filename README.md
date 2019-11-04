@@ -99,7 +99,6 @@ body {
           <li><a href="#KONOBA">KONOBA</a></li>
           <li><a href="#MENU">MENU</a></li>
           <li><a href="#DRUŠTVENEMREŽE">DRUŠTVENE MREŽE</a></li>
-          <li><a href="#MAPA">MAPA</a></li>
           <li><a href="#GALERIJA">GALERIJA</a></li>
               <li><a href="#KONTAKT">KONTAKT</a></li>
          
