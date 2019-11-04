@@ -100,7 +100,7 @@ body {
           <li><a href="#MENU">MENU</a></li>
           <li><a href="#DRUŠTVENEMREŽE">DRUŠTVENE MREŽE</a></li>
           <li><a href="#GALERIJA">GALERIJA</a></li>
-              <li><a href="kasi.html">KONTAKT</a></li>
+              <li><a href="#kontakt">KONTAKT</a></li>
          
             
             </ul>
